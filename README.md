@@ -9,6 +9,8 @@ The links of which can be found below
 **House Price Prediction and Cleaning Data (Regression, Pandas, sklearn, decision trees)**
 https://colab.research.google.com/drive/1QvgjZD6WBMQwq-_ttqSRiZuqh_PRwqMn?usp=sharing
 
+**Predicting location based upon average house price (Decision trees, naive bayes, sklearn, pandas)
+
 **Mymo and Fuzzy Logic (Data preparation, fuzzy machines, Pandas, filtering)**
 https://colab.research.google.com/drive/1Zceu9P-qc0p0RFaWjkFUF-NWbtYFk58m?usp=sharing
 
