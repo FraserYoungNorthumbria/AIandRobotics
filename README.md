@@ -1,5 +1,6 @@
 # AIandRobotics
-Datasets for practical examples of AI in Python!
+This week will hopefully demonstrate how AI can be applied to real-world problems, that Alan and I have encountered/researched ourselves in great detail!
+This github repo holds data for practical examples of AI in Python!
 
 # Colab Notebooks
 The seminar this week will primarily focus on work in Python using Jupyter Notebook's (in google colab)
