@@ -15,3 +15,6 @@ https://colab.research.google.com/drive/1zklIzIqygDsFMcqzUV48YpJz1hUDRWq_?usp=sh
 **Mymo and Fuzzy Logic (Data preparation, fuzzy machines, Pandas, filtering)**
 https://colab.research.google.com/drive/1Zceu9P-qc0p0RFaWjkFUF-NWbtYFk58m?usp=sharing
 
+**Classifying postural transitions from an inertial sensor during a stand up and go test (Data preparation, analysis, visualisation, labelling, naive bayes)**
+https://colab.research.google.com/drive/1R2HYr3Iw7hr2J1IbSgAjExV2MGnCZrxv?usp=sharing
+
